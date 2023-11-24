@@ -12,14 +12,14 @@
         @method('put')
 
 
-        <label for="nombre">Tipo:</label>
+        <label for="tipoManzana">Tipo:</label>
         <input type="text" id="tipoManzana" name="tipoManzana"><br>
 
 
-        <label for="raza">Raza:</label>
+        <label for="precioKilo">Precio por Kilo:</label>
         <input type="number" id="precioKilo" name="precioKilo"><br>
 
-        <button type="submit">Actualizar</button>
+        <button type="submit">Modificar</button>
 </form>
 </body>
 </html>

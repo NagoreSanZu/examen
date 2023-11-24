@@ -46,5 +46,6 @@
             </tbody>
         </table>
     </div>
+    <a href="/">VOLVER AL INICIO</a>
 </body>
 </html>

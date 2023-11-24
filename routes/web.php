@@ -37,6 +37,7 @@ Route::put('/index{manzanas}', [ManzanasController::class, 'update'])->name('man
 
 
 //RUTA PARA ELIMINAR
+
 Route::delete('/index{manzanas}', [ManzanasController::class, 'destroy'])->name('manzanas.eliminar');
 
 

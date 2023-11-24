@@ -82,7 +82,7 @@ public function update(Request $request, manzanas $manzanas)
 
 
 
-    return redirect('/index');
+    return redirect('/index'); 
 }
 
 
